@@ -18,7 +18,7 @@
       "js": ["./dist/static/js/content.js"]
     },
     {
-      "matches": ["http://127.0.0.1:3000/*"],
+      "matches": ["https://mobymask-lxdao-app.dev.vdb.to/*"],
       "js": ["./dist/static/js/contentDapp.js"],
       "run_at": "document_start"
     }
